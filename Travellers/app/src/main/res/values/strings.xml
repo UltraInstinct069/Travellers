@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travellers</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_division">DivisionActivity</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
